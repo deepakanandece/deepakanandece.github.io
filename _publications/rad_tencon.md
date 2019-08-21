@@ -3,9 +3,8 @@ title: "Pixel-wise Segmentation of Right Ventricle of Heart"
 collection: publications
 permalink: /publication/rad_tencon
 date: 2019-08-20
-excerpt: This paper proposes a deep learning based method for the accurate segmentation of right ventricle, which does not require post-processing and yet it achieves the state-of-the-art performance of 0.86 Dice coefficient and 6.73 mm Hausdorff distance on RVSC-MICCAI 2012 dataset.
+excerpt: ![](/images/fig3_2.png){:class="img-responsive"} This paper proposes a deep learning based method for the accurate segmentation of right ventricle, which does not require post-processing and yet it achieves the state-of-the-art performance of 0.86 Dice coefficient and 6.73 mm Hausdorff distance on RVSC-MICCAI 2012 dataset.
 venue: 'IEEE TENCON'
-![](/images/fig3_2.png){:class="img-responsive"}
 ---
 One of the first steps in the diagnosis of most cardiac diseases, such as pulmonary hypertension, coronary heart disease is the segmentation of ventricles from cardiac magnetic resonance (MRI) images. Manual segmentation of the right ventricle requires diligence and time, while its automated segmentation is challenging due to shape variations and illdefined
 borders. We propose a deep learning based method for the accurate segmentation of right ventricle, which does not
