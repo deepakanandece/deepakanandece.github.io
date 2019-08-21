@@ -12,7 +12,7 @@ borders. We propose a deep learning based method for the accurate segmentation o
 require post-processing and yet it achieves the state-of-the-art performance of 0.86 Dice coefficient and 6.73 mm Hausdorff
 distance on RVSC-MICCAI 2012 dataset. We use a novel adaptive cost function to counter extreme class-imbalance in the dataset.
 We present a comprehensive comparative study of loss functions, architectures, and ensembling techniques to build a principled
-approach for biomedical segmentation tasks. <img src="/images/fig3_2.png" alt="">
+approach for biomedical segmentation tasks.
 
 ### Citation 
 
