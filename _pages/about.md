@@ -14,6 +14,8 @@ I maintain a list of my publications and research implementations under the [Pub
 I blog now and then compiling my personal experiences. Feel free to read a bit more about me!
 
 ## Updates
+* Aug 2019: A paper "Pixel-wise Segmentation of Right Ventricle of Heart" got accepted for IEEE TENCON 2019 
+
 * Aug 2019: Gave a talk titled ["Making Machines Learn: An Introduction to Deep Learning"](https://www.ee.iitb.ac.in/~eestudentrg/sessions.php?phase=8) for [Student Reading Group, EE, IIT Bombay](https://www.ee.iitb.ac.in/~eestudentrg/index.php) 
 
 * July 2019: Gave a hands-on tutorial on predictive analysis for the course ["Fundamentals of IoT Design"](https://portal.iitb.ac.in/ceqipapp/courseDetails.jsp?c_id=2214) under [CEP IIT Bombay](http://www.cep.iitb.ac.in/)
