@@ -49,7 +49,6 @@
 
     {% if post.excerpt and site.read_more != 'enabled' %}
     <p class="archive__item-excerpt" itemprop="description">{{ post.excerpt | markdownify }}</p>
-    <p> <img src="/images/{{ post.image }}" {% if post.alt %} alt="{{ post.alt | default: "drawing" }}" {% endif %} {% if post.width %} width="{{ post.width | default: "200" }}" {% endif %}/></p>
     {% elsif post.excerpt and site.read_more == 'enabled' %}
     <p> <img src="/images/{{ post.image }}" {% if post.alt %} alt="{{ post.alt | default: "drawing" }}" {% endif %} {% if post.width %} width="{{ post.width | default: "200" }}" {% endif %}/></p>
     <p class="archive__item-excerpt" itemprop="description"><p>{{ post.excerpt | markdownify | remove: '<p>' | remove: '</p>' }}<strong><a href="{{ base_path }}{{ post.url }}" rel="permalink"> Read more</a></strong></p></p>
