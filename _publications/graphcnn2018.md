@@ -5,6 +5,8 @@ permalink: /publication/graphcnn2018
 excerpt: ' The existing Graph CNN layers mostly neglect learning explicit operations for edge features while focusing on vertex features alone. We propose new formulations for convolutional, pooling, and fully connected layers for neural networks that make more comprehensive use of the information available in multi-dimensional graphs. Using these layers led to an improvement in classification accuracy over the state-of-the-art methods on benchmark graph datasets.'
 date: 2018-11-01
 venue: 'arXiv preprint'
+image: 'gcn_edge.png'
+width: '1500'
 ---
 The existing Graph CNN layers mostly neglect learning explicit operations for edge features while focusing on vertex features alone. We propose new formulations for convolutional, pooling, and fully connected layers for neural networks that make more comprehensive use of the information available in multi-dimensional graphs. Using these layers led to an improvement in classification accuracy over the state-of-the-art methods on benchmark graph datasets.
 
