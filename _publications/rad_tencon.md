@@ -16,6 +16,6 @@ approach for biomedical segmentation tasks.
 
 ### Citation 
 
-'Dang, Y., <b>Anand, D.</b>, and Sethi, A. (2019). &quot;Pixel-wise Segmentation of Right Ventricle of Heart.&quot; <i>IEEE TENCON 2019.</i>'
+'Dang, Y., <b>Anand, D.</b>, and Sethi, A. (2019). &quot;Pixel-wise Segmentation of Right Ventricle of Heart.&quot; <i>IEEE TENCON 2019.</i><b>(Equal contribution by Dang Y. and Anand D.)</b>.'
 
 [Paper Link](/images/rad_tencon.pdf "Radiology IEEE TENCON")
