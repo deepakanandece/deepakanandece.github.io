@@ -14,19 +14,19 @@ I maintain a list of my publications and research implementations under the [Pub
 I blog now and then compiling my personal experiences. Feel free to read a bit more about me!
 
 ## Updates
-* Aug 2019: A paper "Pixel-wise Segmentation of Right Ventricle of Heart" got accepted for IEEE TENCON 2019 
+* <b>Aug 2019:</b> A paper "Pixel-wise Segmentation of Right Ventricle of Heart" got accepted for IEEE TENCON 2019 
 
-* Aug 2019: Gave a talk titled ["Making Machines Learn: An Introduction to Deep Learning"](https://www.ee.iitb.ac.in/~eestudentrg/sessions.php?phase=8) for [Student Reading Group, EE, IIT Bombay](https://www.ee.iitb.ac.in/~eestudentrg/index.php) 
+* <b>Aug 2019:</b> Gave a talk titled ["Making Machines Learn: An Introduction to Deep Learning"](https://www.ee.iitb.ac.in/~eestudentrg/sessions.php?phase=8) for [Student Reading Group, EE, IIT Bombay](https://www.ee.iitb.ac.in/~eestudentrg/index.php) 
 
-* July 2019: Gave a hands-on tutorial on predictive analysis for the course ["Fundamentals of IoT Design"](https://portal.iitb.ac.in/ceqipapp/courseDetails.jsp?c_id=2214) under [CEP IIT Bombay](http://www.cep.iitb.ac.in/)
+* <b>Jul 2019:</b> Gave a hands-on tutorial on predictive analysis for the course ["Fundamentals of IoT Design"](https://portal.iitb.ac.in/ceqipapp/courseDetails.jsp?c_id=2214) under [CEP IIT Bombay](http://www.cep.iitb.ac.in/)
 
-* June 2019: Presented at [IWSSIP 2019](https://iwssip2019.org/) in Osijek, Croatia
+* <b>Jun 2019:</b>  Presented at [IWSSIP 2019](https://iwssip2019.org/) in Osijek, Croatia
 
-* May 2019: Gave a hands-on [tutorial](https://www.ee.iitb.ac.in/web/schedule/seminars/Broad_applications_of_Deep_Learning_in_Electrical_Engineering_08_05_2019) demonstrating deep-learning as a computational tool at [Department of Electrical Engineering](https://www.ee.iitb.ac.in/web), IIT Bombay
+* <b>May 2019:</b>  Gave a hands-on [tutorial](https://www.ee.iitb.ac.in/web/schedule/seminars/Broad_applications_of_Deep_Learning_in_Electrical_Engineering_08_05_2019) demonstrating deep-learning as a computational tool at [Department of Electrical Engineering](https://www.ee.iitb.ac.in/web), IIT Bombay
 
-* April 2019: A paper "Fast GPU-Enabled Color Normalization for Digital Pathology" got accepted for IWSSIP 2019
+* <b>Apr 2019:</b>  A paper "Fast GPU-Enabled Color Normalization for Digital Pathology" got accepted for IWSSIP 2019
 
-* April 2019: Received PG Passing-out Color (Sports), [Gymkhana Awards 2018-2019](https://www.insightiitb.org/student-gymkhana-awards-2017-18/) IIT Bombay 
+* <b>Apr 2019:</b>  Received PG Passing-out Color (Sports), [Gymkhana Awards 2018-2019](https://www.insightiitb.org/student-gymkhana-awards-2017-18/) IIT Bombay 
 
-* Feb 2019: Played [National Championship of Ultimate Frisbee 2019](https://indiaultimate.org/p/201819-nationals-wrap-up) at Ahmedabad
+* <b>Feb 2019:</b>  Played [National Championship of Ultimate Frisbee 2019](https://indiaultimate.org/p/201819-nationals-wrap-up) at Ahmedabad
 
