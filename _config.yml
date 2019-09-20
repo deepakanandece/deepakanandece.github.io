@@ -11,7 +11,7 @@ title                    : "Deepak Anand"
 title_separator          : "-"
 name                     : &name "Deepak Anand"
 description              : &description "Ph.D. Scholar, IIT Bombay"
-url                      : ""# the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
+url                      : ""# the base hostname & protocol for your site e.g. "https://deepakanandece.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "deepakanandece.github.io"
 teaser                   :  # filename of teaser fallback teaser image placed in /images/, .e.g. "500x300.png"
@@ -84,10 +84,10 @@ author:
   avatar           : "bio-photo-1.jpg"
   bio              : "Ph.D. Scholar, IIT Bombay"
   location         : "Mumbai"
-  employer         :
+  employer         : 
   pubmed           : 
   googlescholar    : "https://scholar.google.com/citations?user=uqL12FYAAAAJ&hl=en&oi=ao"
-  email            :
+  email            : "deepakanandece@gmail.com"
   researchgate     :  # example: "https://www.researchgate.net/profile/yourprofile"
   uri              :
   bitbucket        :
