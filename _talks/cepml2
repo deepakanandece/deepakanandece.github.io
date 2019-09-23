@@ -1,0 +1,12 @@
+---
+title: "Tutorial on machine learning for the course IoT Fundamentals and Case Studies under CEP IIT Bombay"
+collection: talks
+type: "Tutorial"
+permalink: /talks/cepml2
+venue: "Department of Electrical Engineering, IIT Bombay"
+date: 2019-09-17
+location: "Mumbai, India"
+---
+[More information here](https://portal.iitb.ac.in/ceqipapp/courseDetails.jsp?c_id=2623)
+
+The agenda of the talk was to demonstrate basic machine learning and dimensionality reduction tecnique. The resources for the tutorial are [here](/images/ml_session_2ip "Project Presentation PDF").
