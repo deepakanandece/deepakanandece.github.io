@@ -14,7 +14,7 @@ I maintain a list of my publications and research implementations under the [Pub
 I blog now and then compiling my personal experiences. Feel free to read a bit more about me!
 
 ## Updates
-* <b>Sep 2019:</b> Gave a hands-on tutorial on machine learning and dimension reduction for the course ["IoT Fundamentals and Case Studies"](https://portal.iitb.ac.in/ceqipapp/courseDetails.jsp?c_id=2623) under [CEP IIT Bombay (http://www.cep.iitb.ac.in/)
+* <b>Sep 2019:</b> Gave a hands-on tutorial on machine learning and dimension reduction for the course ["IoT Fundamentals and Case Studies"](https://portal.iitb.ac.in/ceqipapp/courseDetails.jsp?c_id=2623) under [CEP IIT Bombay](http://www.cep.iitb.ac.in/)
 
 * <b>Sep 2019:</b> A paper "A Bayesian framework to quantify survival uncertainty" got accepted for ESMO MAP 2019
 
