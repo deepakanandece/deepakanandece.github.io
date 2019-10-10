@@ -14,5 +14,5 @@ without annotations. Entries were evaluated based on average aggregated Jaccard 
 Additionally, fully convolutional networks inspired by variants of U-Net, FCN, and Mask-RCNN were popularly used, typically based on ResNet or VGG base architectures. Watershed segmentation on predicted semantic segmentation maps was a popular post-processing strategy. Several of the top techniques compared favorably to an individual human annotator and can be used with confidence for nuclear morphometrics
 
 ### Citation
-'Kumar, N., <b>Anand, D.</b>, Verma, R., et.al. and Sethi, A. (2019). &quot;A Multi-organ Nucleus Segmentation Challenge &quot; <i>Transaction of Medical Imaging</i>, IEEE 
+'Kumar, N., Verma, R., <b>Anand, D.</b>, et.al. and Sethi, A. (2019). &quot;A Multi-organ Nucleus Segmentation Challenge &quot; <i>Transaction of Medical Imaging</i>, IEEE 
 
