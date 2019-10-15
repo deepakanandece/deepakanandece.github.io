@@ -9,7 +9,7 @@ redirect_from:
 
 My name is Deepak Anand, and I am a Ph.D. Scholar in the [Department of Electrical Engineering](https://www.ee.iitb.ac.in/web) at [IIT Bombay](http://www.iitb.ac.in/). I work in the area of deep learning applications to the medical images specifically for cancer diagnosis and prognosis at MeDAL (Medical Deep Learning and Artificial Intelligence Lab). I have worked in the area with pathology, radiology, and clinical images. I also have a keen interest in the field of Control theory, Numeric Linear Algebra, and Optimization.
 
-I maintain a list of my publications and research implementations under the [Publications]({{ site.url }}/publications) tab. To get an insight into my professional life so far, you can have a look at my [CV](/images/Deepak_Anand_IITB.pdf).
+I maintain a list of my publications and research implementations under the [Publications]({{ site.url }}/publications) tab. To get an insight into my professional life so far, you can have a look at my [CV](/images/Deepak_Anand_IITB_oct.pdf).
 
 I blog now and then compiling my personal experiences. Feel free to read a bit more about me!
 
