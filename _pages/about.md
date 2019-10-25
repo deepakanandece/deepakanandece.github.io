@@ -20,7 +20,7 @@ I blog now and then compiling my personal experiences. Feel free to read a bit m
 
 <img src="/images/intel.jpeg"
      alt="Markdown Monster icon"
-     style="float: center; margin-right: 10px; "width:200px;" />
+     style="float: center; "width:200px; margin-right: 10px;" />
 
 * <b> Oct 2019:</b> A paper ["Histographs: Graphs in Histopathology"](https://arxiv.org/abs/1908.05020) got accepted at SPIE Medical Imaging 2020. Congratulations to co-authors Shrey Gadiya and Amit Sethi
 
