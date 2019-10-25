@@ -14,6 +14,12 @@ I maintain a list of my publications and research implementations under the [Pub
 I blog now and then compiling my personal experiences. Feel free to read a bit more about me!
 
 ## Updates
+
+* <b> Oct 2019:</b> Won second prize at Intel Python Hackfury2
+<img src="/images/intel.jpeg"
+     alt="Markdown Monster icon"
+     style="float: center; margin-right: 10px;" />
+
 * <b> Oct 2019:</b> A paper ["Histographs: Graphs in Histopathology"](https://arxiv.org/abs/1908.05020) got accepted at SPIE Medical Imaging 2020. Congratulations to co-authors Shrey Gadiya and Amit Sethi
 
 * <b> Oct 2019:</b> A paper ["A Multi-organ Nucleus Segmentation Challenge"](https://monuseg.grand-challenge.org/) got accepted at IEEE TMI. Congratulations to co-authors Neeraj Kumar, Ruchika Verma and Amit Sethi
