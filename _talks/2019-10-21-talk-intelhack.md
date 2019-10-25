@@ -3,7 +3,7 @@ title: "Intel Python Hackfury2"
 collection: talks
 type: "Talk"
 permalink: /talks/intel
-venue: "Satish Dhawan Audotorium, IISc Banglore"
+venue: "Satish Dhawan Auditorium, IISc Banglore"
 date: 2019-10-21
 location: "Bengaluru, India"
 ---
