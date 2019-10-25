@@ -15,7 +15,9 @@ I blog now and then compiling my personal experiences. Feel free to read a bit m
 
 ## Updates
 
-* <b> Oct 2019:</b> Won second prize at Intel Python Hackfury2
+* <b> Oct 2019:</b> <b>Won second prize at Intel Python Hackfury2</b> !!
+
+
 <img src="/images/intel.jpeg"
      alt="Markdown Monster icon"
      style="float: center; margin-right: 10px;" />
