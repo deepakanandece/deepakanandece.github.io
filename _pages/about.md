@@ -17,7 +17,7 @@ I blog now and then compiling my personal experiences. Feel free to read a bit m
 * <b> Nov 2019:</b> Won <b>Best paper award</b> for a paper "Breast Cancer Histopathology Image Classification
 and Localization using Multiple Instance Learning" at IEEE WIECON 2019. Congratulations to co-authors!
 
-* <b> Nov 2019:</b> Gave a tutorial on machine learning for the CEP course on ["Emerging Telecom Technologies for Digital Development and Spectrum Management"](https://portal.iitb.ac.in/ceqipapp/courseDetails.jsp?c_id=3054)
+* <b> Nov 2019:</b> Gave a tutorial on machine learning for the CEP IIT Bombay course on ["Emerging Telecom Technologies for Digital Development and Spectrum Management"](https://portal.iitb.ac.in/ceqipapp/courseDetails.jsp?c_id=3054)
 
 * <b> Oct 2019:</b> <b>Won second prize at Intel Python Hackfury2</b> !!
 
