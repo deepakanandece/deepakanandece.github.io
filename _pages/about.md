@@ -14,6 +14,7 @@ I maintain a list of my publications and research implementations under the [Pub
 I blog now and then compiling my personal experiences. Feel free to read a bit more about me!
 
 ## Updates
+* <b> Dec 2019:</b> Presented pre-synopsis seminar for Ph.D. submission
 * <b> Nov 2019:</b> Won <b>Best paper award</b> for a paper ["Breast Cancer Histopathology Image Classification
 and Localization using Multiple Instance Learning"](https://deepakanandece.github.io/publication/wiecon2019) at IEEE WIECON 2019. Congratulations to co-authors!
 
