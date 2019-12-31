@@ -1,7 +1,7 @@
 ---
 layout: page
 ---
-My name is Deepak Anand, and I am a PhD Scholar in [Department of Electrical Engineering](https://www.ee.iitb.ac.in/web) at [IIT Bomabay](http://www.iitb.ac.in/). I recently graduated from the Electrical Engineering department at IIT Bombay.
+My name is Deepak Anand, and I am a PhD Scholar in [Department of Electrical Engineering](https://www.ee.iitb.ac.in/web) at [IIT Bombay](http://www.iitb.ac.in/). I recently graduated from the Electrical Engineering department at IIT Bombay.
 
 I maintain a list of my publications and research implementations under the Research tab. To get an insight on my professional life so far, you can have a look at my CV.
 
