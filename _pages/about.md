@@ -14,8 +14,8 @@ I maintain a list of my publications, patent and research implementations under 
 I blog now and then compiling my personal experiences. Feel free to read a bit more about me!
 
 ## Updates
-* <b> Jul 2020:</b> Defended the Ph.D. thesis, officially a Doctor.
-* <b> Jul 2020:</b> A USA PAtent was approved.
+* <b> Jul 2020:</b> Defended the Ph.D. thesis, officially a Doctor now.
+* <b> Jul 2020:</b> A USA Patent was approved.
 * <b> April 2020:</b> Submitted the Ph.D. thesis for external review.
 * <b> Feb 2020:</b> A paper “Uncertainty Estimation in Cancer Survival Prediction” got accepted for ICLR Workshop on AI for Affordable Healthcare, 2020. Congratulations to co-authors [Hrushikesh](https://hrushikeshloya.github.io/), Pranav, Neeraj, and [Amit Sethi](https://www.ee.iitb.ac.in/~asethi/).
 * <b> Jan 2020:</b> Joined [Griffyn Robotech Pvt. Limited](https://www.griffyn.io/) as Head of AI.
