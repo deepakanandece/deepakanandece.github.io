@@ -7,13 +7,14 @@ redirect_from:
   - /about.html
 ---
 
-My name is Deepak Anand, and I am woorking at [Griffyn Robotech Pvt. Limited](https://www.griffyn.io/) as Head of AI. I am working at Griffyn Robotech Pvt. Limited to bring the edge of AI to industrial automation and operations analytics. We have built a patented micron level cosmetic grading machine for surface inspections. We are bringing the AI-based analytics for predictive maintenance through our natively developed IIoT gateway. I completed my Ph.D. at the [Department of Electrical Engineering](https://www.ee.iitb.ac.in/web) at [IIT Bombay](http://www.iitb.ac.in/). For my Ph.D., I worked in the area of deep learning applications to the medical images specifically for cancer diagnosis and prognosis at MeDAL (Medical Deep Learning and Artificial Intelligence Lab). I have worked in the area with pathology, radiology, and clinical images. I also have a keen interest in the field of Control theory, Numeric Linear Algebra, and Optimization.
+My name is Deepak Anand, and I am working at [Griffyn Robotech Pvt. Limited](https://www.griffyn.io/) as Head of AI. I am working at Griffyn Robotech Pvt. Limited to bring the edge of AI to industrial automation and operations analytics. We have built a patented micron level cosmetic grading machine for surface inspections. We are bringing the AI-based analytics for predictive maintenance through our natively developed IIoT gateway. I completed my Ph.D. at the [Department of Electrical Engineering](https://www.ee.iitb.ac.in/web) at [IIT Bombay](http://www.iitb.ac.in/). For my Ph.D., I worked in the area of deep learning applications to the medical images specifically for cancer diagnosis and prognosis at MeDAL (Medical Deep Learning and Artificial Intelligence Lab). I have worked in the area with pathology, radiology, and clinical images. I also have a keen interest in the field of Control theory, Numeric Linear Algebra, and Optimization.
 
 I maintain a list of my publications, patent and research implementations under the [Publications]({{ site.url }}/publications) tab. To get an insight into my professional life so far, you can have a look at my [CV](/images/Deepak_anand.pdf).
 
 I blog now and then compiling my personal experiences. Feel free to read a bit more about me!
 
 ## Updates
+* <b> Aug 2020:</b> A paper titled "Visualization for Histopathology Images using Graph Convolutional Neural Networks" got accepted at IEEE-BIBE 2020
 * <b> Jul 2020:</b> Defended the Ph.D. thesis, officially a Doctor now.
 * <b> Jul 2020:</b> A USA Patent was approved.
 * <b> April 2020:</b> Submitted the Ph.D. thesis for external review.
