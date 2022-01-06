@@ -11,7 +11,7 @@ redirect_from:
 
 Education
 ======
-* <b>Ph.D</b> in Electrical Engineering, Indian Institute of Technology Bombay, 2019 (expected)
+* <b>Ph.D</b> in Electrical Engineering, Indian Institute of Technology Bombay, 2019
 * <b>B.Tech.</b> in Electronics and Communication Engineering, Dr. M.G.R. Educational and Research Institute Chennai, 2012
 
 Publications
