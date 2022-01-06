@@ -22,7 +22,7 @@ Publications
   
 Work experience
 ======
-* <b> Lab Administrator 2014-19: Lab Administrator </b>
+* <b> Teaching Assistant 2014-19: Teaching Assistant </b>
   * Indian Institute of Technology Bombay
   * Duties included: 
     * Building deep learning servers
