@@ -7,13 +7,18 @@ redirect_from:
   - /about.html
 ---
 
-My name is Deepak Anand, and I am working at [Griffyn Robotech Pvt. Limited](https://www.griffyn.io/) as Head of AI. I am working at Griffyn Robotech Pvt. Limited to bring the edge of AI to industrial automation and operations analytics. We have built a patented micron level cosmetic grading machine for surface inspections. We are bringing the AI-based analytics for predictive maintenance through our natively developed IIoT gateway. I completed my Ph.D. at the [Department of Electrical Engineering](https://www.ee.iitb.ac.in/web) at [IIT Bombay](http://www.iitb.ac.in/). For my Ph.D., I worked in the area of deep learning applications to the medical images specifically for cancer diagnosis and prognosis at MeDAL (Medical Deep Learning and Artificial Intelligence Lab). I have worked in the area with pathology, radiology, and clinical images. I also have a keen interest in the field of Control theory, Numeric Linear Algebra, and Optimization.
+My name is Deepak Anand, and I am working at [Nference](https://nference.com/) as Data Science Manager. Nference is popularly know as [Google of Medicine](https://twitter.com/_nference/status/1323008059472576522?lang=en). At Nference, I work on applied computer-vision in the domain of medical images which includes radiology and histopathology. With multiple spin-cos like [Anumana](https://www.anumana.ai/) and [Pramana](https://pramana.ai/) the aim at Nference is to build a completely-aware (using all the modalities rather than one or two) suite of algorithms which can benefit patients significantly. 
+
+Earlier, I worked at [Griffyn Robotech Pvt. Limited](https://www.griffyn.io/) as Head of AI. I was working at Griffyn Robotech Pvt. Limited to bring the edge of AI to industrial automation and operations analytics. We built a patented micron level cosmetic grading machine for surface inspections.
+
+By education, I completed my Ph.D. at the [Department of Electrical Engineering](https://www.ee.iitb.ac.in/web) at [IIT Bombay](http://www.iitb.ac.in/). For my Ph.D., I worked in the area of deep learning applications to the medical images specifically for cancer diagnosis and prognosis at MeDAL (Medical Deep Learning and Artificial Intelligence Lab).
 
 I maintain a list of my publications, patent and research implementations under the [Publications]({{ site.url }}/publications) tab. To get an insight into my professional life so far, you can have a look at my [CV](/images/Deepak_recent.pdf).
 
 I blog now and then compiling my personal experiences. Feel free to read a bit more about me!
 
 ## Updates
+* <b> Mar 2022:</b> Starte to work as Data Science Manager at [Nference](https://nference.com/).
 * <b> Nov 2021:</b> A paper titled "Weakly supervised learning on
 unannotated H&E stained slides predicts BRAF mutation in thyroid cancer with high accuracy" got accepted at The Journal of Pathology.
 * <b> Aug 2020:</b> A paper titled "Visualization for Histopathology Images using Graph Convolutional Neural Networks" got accepted at IEEE-BIBE 2020.
