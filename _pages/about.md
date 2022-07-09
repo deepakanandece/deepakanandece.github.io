@@ -11,7 +11,8 @@ My name is Deepak Anand, and I work at [Nference](https://nference.com/) as Data
 Previously, I worked as Head of AI at [Griffyn Robotech Pvt. Limited](https://phoenix.tech/griffyn/). I was working at Griffyn Robotech Pvt. Limited to bring the edge of AI to industrial automation and operations analytics. We built a patented micron-level cosmetic grading machine for surface inspections.
 
 By education, I completed my Ph.D. at the Department of Electrical Engineering at IIT Bombay. For my Ph.D., I worked in the area of deep learning applications to medical images, specifically for cancer diagnosis and prognosis at MeDAL (Medical Deep Learning and Artificial Intelligence Lab).
-I maintain a list of my publications, patents, and research implementations under the [Publications]({{ site.url }}/publications) tab. To get an insight into my professional life so far, you can have a look at my CV.
+I maintain a list of my publications, patents, and research implementations under the [Publications]({{ site.url }}/publications) tab. To get an insight into my professional life so far, you can have a look at my [CV](../images/Deepak_recent.pdf).
+
 I blog now and then, compiling my personal experiences. Feel free to read a bit more about me!
 
 ## Updates
