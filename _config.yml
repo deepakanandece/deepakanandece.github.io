@@ -10,7 +10,7 @@ locale                   : "en-US"
 title                    : "Deepak Anand"
 title_separator          : "-"
 name                     : &name "Deepak Anand"
-description              : &description "Ph.D. Scholar, IIT Bombay"
+description              : &description "Data Science Manager, Nference"
 url                      : ""# the base hostname & protocol for your site e.g. "https://deepakanandece.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "deepakanandece.github.io"
@@ -82,8 +82,8 @@ analytics:
 author:
   name             : "Deepak Anand"
   avatar           : "bio-photo-1.jpg"
-  bio              : "Ph.D. Scholar, IIT Bombay (Mob: 8454912860)"
-  location         : "Mumbai"
+  bio              : "Data Science Manager, Nference (Mob: 8454912860)"
+  location         : "Bangalore"
   employer         : 
   pubmed           : 
   googlescholar    : "https://scholar.google.com/citations?user=uqL12FYAAAAJ&hl=en&oi=ao"
